@@ -1,0 +1,11 @@
+*{
+    cursor: none;
+}
+
+img{
+    width: 15%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    
+}
